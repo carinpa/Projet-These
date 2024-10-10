@@ -18,7 +18,7 @@ satellitaires pour répondre à plusieurs objectifs spécifiques (OS) de la thè
 
 
 * _Nomenclature_ :
-Le fichier code se situe dans le dossier `/notebooks` sous l'appellation `[THESE] MODELISATION OS1 & OS2.ipynb`. 
+Le fichier code se situe dans le dossier `/code` sous l'appellation `[THESE] MODELISATION OS1 & OS2.ipynb`. 
 
 
 * _Objectif_ :
@@ -44,7 +44,7 @@ k_t = IGH / IGH_0
 
 
 * _Nomenclature_ :
-Le fichier code se situe dans le dossier `/notebooks` sous l'appellation `[THESE] MODELISATION OS4.ipynb`. 
+Le fichier code se situe dans le dossier `/code` sous l'appellation `[THESE] MODELISATION OS4.ipynb`. 
 
 
 * _Objectif_ :
@@ -53,10 +53,6 @@ Modéliser l’irradiation solaire globale en utilisant des images satellitaires
 * _Contenu_ : 
 Ce notebook présente l’application de deux modèles de télédétection pour l’estimation du rayonnement solaire à partir des images satellitaires.
 Les organigrammes des deux modèles sont inclus pour illustrer le processus de calcul.
-
-
-## Exemples de sorties de Codes
-
 
 
 ## Exécution du Code
