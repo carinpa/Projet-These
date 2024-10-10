@@ -52,7 +52,7 @@ Modéliser l’irradiation solaire globale en utilisant des images satellitaires
 
 * _Contenu_ : 
 Ce notebook présente l’application de deux modèles de télédétection pour l’estimation du rayonnement solaire à partir des images satellitaires.
-Les organigrammes des deux modèles sont inclus pour illustrer le processus de calcul. Le paramètre principal d'etrée des modèles ciel clair implémenter
+Les organigrammes des deux modèles sont inclus pour illustrer le processus de calcul. Le paramètre principal d'entré des modèles ciel clair implémenter
 dans les modèles est estimé à l'aide d'un modèle semi-empirique.
 
 
