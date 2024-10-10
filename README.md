@@ -69,7 +69,7 @@ Le code est écrit sous le langage Python. Pour lancer le code, assurez vous d'a
 2. Clonez ce dépôt GitHub en exécutant la commande suivante dans une cellule Colab :
 
 ```
-!git clone https://github.com/Alassane-niir/Solar-Phd-Project.git
+!git clone https://github.com/carinpa/Projet-These.git
 ```
 3. Ouvrez le notebook que vous souhaitez exécuter dans Colab.
 
@@ -81,6 +81,6 @@ Le code est écrit sous le langage Python. Pour lancer le code, assurez vous d'a
 2. Clonez ce dépôt :
 
 ```
-git clone https://github.com/Alassane-niir/Solar-Phd-Project.git
+git clone https://github.com/carinpa/Projet-These.git
 ```
 3. Accédez au dossier et lancez Jupyter.
