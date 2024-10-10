@@ -1,4 +1,4 @@
-# PROJET-THESE: Modélisation du rayonnement solaire des jours de ciel partiellement nuageux de trois sites de Mesures en Côte d’Ivoire
+# PROJET-THESE: Modélisation du rayonnement solaire des jours  de trois sites de Mesures en Côte d’Ivoire
 
 
 ## Par: YEBOUA SIAMAN PAULE-CARINE
@@ -8,7 +8,7 @@
 ## Introduction
 
 Ce dépôt contient le code et les notebooks utilisés pour modéliser le rayonnement solaire 
-des jours de ciel partiellement nuageux sur trois sites de mesure en Côte d'Ivoire. 
+ sur trois sites de mesure en Côte d'Ivoire. 
 Le travail s'appuie sur des données de rayonnement solaire mesurées au sol et des images 
 satellitaires pour répondre à plusieurs objectifs spécifiques (OS) de la thèse.
 
@@ -52,7 +52,8 @@ Modéliser l’irradiation solaire globale en utilisant des images satellitaires
 
 * _Contenu_ : 
 Ce notebook présente l’application de deux modèles de télédétection pour l’estimation du rayonnement solaire à partir des images satellitaires.
-Les organigrammes des deux modèles sont inclus pour illustrer le processus de calcul.
+Les organigrammes des deux modèles sont inclus pour illustrer le processus de calcul. Le paramètre principal d'etrée des modèles ciel clair implémenter
+dans les modèles est estimé à l'aide d'un modèle semi-empirique.
 
 
 ## Exécution du Code
